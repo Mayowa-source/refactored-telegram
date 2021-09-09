@@ -1,7 +1,2 @@
 Instructions for deploying this site to the server
 .............................
-
-Installattion on IIS 
---------------------
-
-Content goes here
